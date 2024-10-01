@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja de Hardware</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Loja de Hardware</h1>
+        <nav>
+            <ul>
+                <li><a href="#produtos">Produtos</a></li>
+                <li><a href="#sobre">Sobre Nós</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="banner">
+            <h2>Bem-vindo à sua loja de hardware!</h2>
+            <p>Aqui você encontra tudo o que precisa para seus projetos de construção e manutenção.</p>
+        </section>
+
+        <section id="produtos">
+            <h2>Nossos Produtos</h2>
+            <div class="produto">
+                <h3>Ferramentas Manuais</h3>
+                <p>As melhores ferramentas para seu dia a dia.</p>
+            </div>
+            <div class="produto">
+                <h3>Materiais de Construção</h3>
+                <p>Qualidade e preço baixo para sua obra.</p>
+            </div>
+            <div class="produto">
+                <h3>Elétrica e Hidráulica</h3>
+                <p>Componentes de alta performance para suas instalações.</p>
+            </div>
+        </section>
+
+        <section id="sobre">
+            <h2>Sobre Nós</h2>
+            <p>Fundada em 2020, nossa loja tem como objetivo oferecer produtos de qualidade com um excelente atendimento ao cliente.</p>
+        </section>
+
+        <section id="contato">
+            <h2>Contato</h2>
+            <p>Entre em contato conosco: <a href="mailto:contato@lojadehardware.com">contato@lojadehardware.com</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Loja de Hardware. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
